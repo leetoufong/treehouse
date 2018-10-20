@@ -17,5 +17,8 @@
   - Can include a large portion of the UI
   - Or as simple as a button
 + **NgModule** is a container for your app
-+ **Ng** is the namespace that short for Angular (Note: we'll be using this) 
++ **Ng** is the namespace that short for Angular
 + **Webpack** is a open-source module loader and has become the standard way to package Ng apps
+
+Note: We will be using **Ng** namespace to represent Angular
+Note: We will be using **TS** namespace to represent Typescript

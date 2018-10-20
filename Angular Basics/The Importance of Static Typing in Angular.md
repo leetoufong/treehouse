@@ -1,7 +1,7 @@
 # The Importance of Static Typing in Angular
 
 + Ng is the first major front-end framework
-+ **Typescript** has all the same syntax as JS
++ TS has all the same syntax as JS
 
     ```
     class Greeter {
