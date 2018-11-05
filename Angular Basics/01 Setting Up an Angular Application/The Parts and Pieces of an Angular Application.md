@@ -16,7 +16,7 @@
 + **Components** are a collection of templates, styles, business logic to make up your application
   - Can include a large portion of the UI
   - Or as simple as a button
-+ **NgModule** is a container for your app
++ **NgModule** is a container for your app, needs to have atleast 1 for app to work
 + **Ng** is the namespace that short for Angular
 + **Webpack** is a open-source module loader and has become the standard way to package Ng apps
 
